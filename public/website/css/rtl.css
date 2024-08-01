@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+html,body {
+    direction: rtl;
+}
+* {
+    font-family: 'Tajawal', sans-serif;
+}
+.header__actions {
+    justify-content: left;
+}
+.header__actions_label i {
+    margin-left: 0;
+    margin-right: 3px;
+}
+.header__actions li.header__actions_list_item p img {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.header__actions_label img {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.contact-footer li {
+    direction: ltr !important;
+  }
+.header__actions_menu {
+    right: auto;
+    left: 0;
+}
+.product__vertical {
+    direction: rtl;
+}
+.mr-auto, .mx-auto {
+    margin-right: 0 !important;
+    margin-left: auto !important;
+}
+.search-banner-field {
+    direction: ltr;
+}
+.search-banner-field .search-banner-field__input input {
+    direction: rtl;
+    padding-right: 40px;
+    padding-left: 10px;
+}
+.search-banner-field .search-banner-field__input i {
+    left: auto;
+    right: 15px;
+}
+.home__brands_title h3 {
+    padding-right: 0;
+    padding-left: 30px;
+}
+.owl-carousel {
+    direction: ltr;
+}
+body .sk-ww-google-reviews {
+    direction: ltr;
+}
+.accordion .card .btn i {
+    float: left;
+}
+.accordion .card .btn {
+    text-align: right !important;
+}
+footer ul {
+    padding-left: 0;
+    padding-right: 30px;
+}
+.page-header__title {
+    text-align: right;
+}
+.home_brands_view_all_holder {
+    margin-left: 0;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 20px;
+}
+.navbar-collapse .navbar-nav {
+    padding-right: 0;
+    padding-left: 1rem !important;
+}
+.home__book_your_next_trip_content h3 {
+    text-align: right !important;
+}
+.header__actions li.header__actions_list_item i {
+    margin-right: 3px;
+    margin-left: 5px;
+}
+.home__google_reviews {
+    /* direction: ltr; */
+}
+.product__vertical_actions ul li i {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.home__brands_item {
+    margin-left: 0;
+    margin-right: auto;
+}
+.product__vertical_bottom_features ul {
+    padding-left: 0;
+    padding-right: 20px;
+}
